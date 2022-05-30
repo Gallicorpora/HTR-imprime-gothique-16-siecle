@@ -7,7 +7,7 @@ authors:
 - name: Pinche
   surname: Ariane
   roles:
-  - project-manager 
+  - project-manager
 - name: Gabay
   surname: Simon
   roles:
@@ -31,8 +31,14 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
-format: Alto-XML
 volume:
-  - metric: lines
-    count: 1
-transcription-guidelines: "Les transcriptions suivent les normes de transcription du projet Gallicorpora"
+- metric: characters
+  count: 90182
+- metric: files
+  count: 80
+- metric: lines
+  count: 2971
+- metric: regions
+  count: 233
+transcription-guidelines: Les transcriptions suivent les normes de transcription du
+  projet Gallicorpora

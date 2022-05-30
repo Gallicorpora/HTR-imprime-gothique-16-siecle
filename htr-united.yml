@@ -4,14 +4,14 @@ description: "Corpus d'entrainement pour l'HTR constitu\xE9 d'imprim\xE9s du 16e
   cle"
 url: https://github.com/Gallicorpora/HTR-imprime-16e-siecle
 authors:
+- name: Pinche
+  surname: Ariane
+  roles:
+  - project-manager 
 - name: Gabay
   surname: Simon
   roles:
   - project-manager
-- name: Pinche
-  roles:
-  - project-manager
-  surname: Ariane
 - name: Vlachou-Efstathiou
   surname: malamatenia
   roles:

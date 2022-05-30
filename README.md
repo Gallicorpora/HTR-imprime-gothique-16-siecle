@@ -1,4 +1,4 @@
-template-depot
+Données d'entrainement pour les imprimés du 16e siècle en gothique
 ===========================
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 

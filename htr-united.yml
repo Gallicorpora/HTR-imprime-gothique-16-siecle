@@ -23,7 +23,7 @@ authors:
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
 language:
-- frm
+- fra
 script:
 - Latn
 script-type: evenly-mixed
@@ -37,18 +37,6 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
-volume:
-format: Alto-XML
-hands:
-  count: 1-per-folder
-  precision: estimated
-language:
-- fra
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-project-name: Gallicorpora
-project-website: https://github.com/Gallicorpora
 volume:
 - metric: characters
   count: 90182

@@ -39,7 +39,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 90182
+  count: 90746
 - metric: files
   count: 80
 - metric: lines
@@ -49,3 +49,93 @@ volume:
 transcription-guidelines: Les transcriptions suivent les normes de transcription du
   projet Gallicorpora
 production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - u
+  - a
+  - i
+  - t
+  - r
+  - n
+  - o
+  - s
+  - l
+  - d
+  - c
+  - m
+  - p
+  - "\u017F"
+  - q
+  - y
+  - "\u0303"
+  - f
+  - g
+  - b
+  - .
+  - h
+  - ','
+  - z
+  - "\u204A"
+  - x
+  - E
+  - "\xAC"
+  - "\xB6"
+  - C
+  - S
+  - L
+  - D
+  - P
+  - A
+  - I
+  - "\u0365"
+  - M
+  - v
+  - Q
+  - "\uA770"
+  - O
+  - T
+  - ':'
+  - V
+  - B
+  - '?'
+  - "\uA751"
+  - H
+  - N
+  - "\u036C"
+  - R
+  - ;
+  - G
+  - F
+  - "\u030C"
+  - "\u0336"
+  - "\uA753"
+  - J
+  - "\u204B"
+  - '-'
+  - "\uA76F"
+  - (
+  - )
+  - '1'
+  - /
+  - U
+  - '9'
+  - "\u033E"
+  - "\xE6"
+  - X
+  - '4'
+  - "\u0304"
+  - "\uA759"
+  - "\u0327"
+  - "\u1D49"
+  - '2'
+  - '*'
+  - '6'
+  - ''''
+  - "\u0399"
+  - '7'
+  - '8'
+  - Y
+  - '5'
+  - '0'

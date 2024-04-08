@@ -74,7 +74,6 @@ characters:
   - G
   - F
   - ̌
-  - ̶
   - ꝓ
   - J
   - '-'
@@ -97,6 +96,8 @@ characters:
   - "'"
   - Ι
   - '7'
+  - ⟦
+  - ⟧
   - '8'
   - Y
   - '5'
@@ -127,7 +128,7 @@ transcription-guidelines: Les transcriptions suivent les normes de transcription
   projet Gallicorpora
 url: https://github.com/Gallicorpora/HTR-imprime-16e-siecle
 volume:
-- count: 90742
+- count: 90731
   metric: characters
 - count: 80
   metric: files
